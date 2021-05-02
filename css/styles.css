@@ -34,73 +34,22 @@ body {
 /* ==================
     * HEADER *
 ===================== */
-.header {
-    width: 100%;
-    height: 50px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
-    color: var(--color-primario);
-}
+
 
 /* ? Logo */
-.logo {
-    font-size: 25px;
-    font-weight: bold;
-}
+
 
 /* ? Menu */
-.menu > i {
-    font-size: 25px;
-}
+
 
 /* ==================
     * MAIN *
 ===================== */
-.main {
-    width: 100%;
-    height: 80vh;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
-}
 
 /* ? Estilos a los textos */
-.grup-text {
-    line-height: 55px;   
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color: var(--color-primario);
-}
 
-.grup-text > h1 {
-    font-size: 50px;
-    font-weight: bold;
-}
-
-.grup-text > h2 {
-    font-size: 30px;
-    font-weight: bold;
-}
 
 /* ? Redes */
-.redes {
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.redes > i {
-    color: var(--color-primario);
-    font-size: 30px;
-    cursor: pointer;
-}
 
 
 /* ==================
